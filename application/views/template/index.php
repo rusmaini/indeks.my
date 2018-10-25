@@ -17,7 +17,7 @@
       </p>
       <p>
       	Powered by: <?=anchor_popup('http://rusmaini.com/blog/category/crock-cms/','CrockCMS')?>
-      	<iframe width="100%" height="20" scrolling="no" frameborder="0" marginheight="5" marginwidth="0" src="https://wapps.uthm.edu.my/my/crockcms/hit/counter/perjawatan"></iframe>
+      	
       </p>
 		
       <br />
