@@ -1,0 +1,1 @@
+[15-Sep-2014 20:28:22 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Mdirektori::get_jenisurusniaga() in /home/projekte/public_html/indeks.my/application/controllers/direktori.php on line 366
